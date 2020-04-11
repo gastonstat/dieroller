@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586623480753.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3100775386",
+    "id" : "B8A83E15",
+    "lastKnownWriteTime" : 1586623691,
+    "last_content_update" : 1586623691817,
+    "path" : "~/Dropbox/course_stat133/psets/hws-spring-2018/dieroller/README.Rmd",
+    "project_path" : "README.Rmd",
+    "properties" : {
+        "cursorPosition" : "74,16",
+        "scrollLine" : "58",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
